@@ -8,7 +8,7 @@ Desarrollo de software a medida, diseño de sistemas y optimización de procesos
 
 ### 🚀 Sobre mí
 
-- 💼 Fundadora de **Avanzio**, donde desarrollamos software a medida y sistemas de gestión para pequeñas y medianas empresas.
+- 💼 Cofundadora de **Avanzio**, donde desarrollamos software a medida y sistemas de gestión para pequeñas y medianas empresas.
 - 🎓 Estudiante universitaria enfocada en desarrollo de software, estructuras de datos y bases de datos.
 - 📍 Buenos Aires, Argentina.
 
