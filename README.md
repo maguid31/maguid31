@@ -31,5 +31,5 @@ Desarrollo de software a medida, diseño de sistemas y optimización de procesos
 
 ### 📫 Contacto
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/magali-dargenzio)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/magali-dargenzio/)
 [![Instagram Avanzio](https://img.shields.io/badge/Avanzio-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/avanzio.ar/)
